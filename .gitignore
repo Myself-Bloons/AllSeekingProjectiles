@@ -1,0 +1,17 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.pdb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Old files
+*.old
