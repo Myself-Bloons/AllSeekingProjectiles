@@ -135,7 +135,7 @@ namespace AllSeeking
 
         public override void OnGameModelLoaded(GameModel model)
         {
-            MelonLogger.Msg("[AllSeeking] Game model loaded (v50.2).");
+            MelonLogger.Msg("[AllSeeking] Game model loaded (v51.1).");
         }
 
 
