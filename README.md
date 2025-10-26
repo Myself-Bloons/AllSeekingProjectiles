@@ -18,6 +18,7 @@
 - Toggle via in-game mod settings menu
 - Smart exclusions for towers that shouldn't seek (Ice Monkey, Sniper, Mortar, Spike Factory)
 - Works with abilities that shoot projectiles
+- Fix from an old Timotheeee mod.
 
 ## Installation
 
