@@ -20,19 +20,7 @@
 - Works with abilities that shoot projectiles
 - Fix from an old **Timotheeee** mod.
 
-## Installation
-
-1. Install [BTD6 Mod Helper](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
-2. Download the latest release from the [Releases page](https://github.com/Myself-Bloons/AllSeekingProjectiles/releases)
-3. Place `all_seeking.dll` in your BTD6 Mods folder
-
-## Usage
-
-- The mod is **enabled by default** when you start the game
-- Press **F9** at any time to toggle the seeking behavior on/off
-- Or use the Mod Helper settings menu in-game
-
 ## Compatibility
 
-- Works on BTD6 version **51.1**
+- Works on BTD6 version **51.2**
 - Requires BTD6 Mod Helper
