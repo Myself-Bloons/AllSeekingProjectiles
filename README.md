@@ -5,22 +5,18 @@
 </a>
 
 </h1>
-<h3 align="center">Makes all straight-traveling projectiles seek targets like ninja monkey projectiles</h3>
+<h3 align="center">Makes all straight-traveling projectiles seek targets with multiple options.</h3>
 <h1 align="center">All Seeking Projectiles</h1>
-
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
 
 ## Features
 
-- Adds seeking behavior to all straight-traveling projectiles
-- Toggle on/off with F9 hotkey
-- Toggle via in-game mod settings menu
-- Smart exclusions for towers that shouldn't seek (Ice Monkey, Sniper, Mortar, Spike Factory)
-- Works with abilities that shoot projectiles
-- Fix from an old **Timotheeee** mod.
+- Seeking behavior on all projectiles (F9 to toggle)
+- Adjustable turn speed, pierce bonus, infinite range, and wall/collision bypass
+- Works with tower abilities
 
 ## Compatibility
 
-- Works on BTD6 version **51.2**
+- BTD6 version **53.2**
 - Requires BTD6 Mod Helper
