@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>all_seeking</RootNamespace>
-    <Configurations>Debug;Release</Configurations>
+    <Configurations>Release</Configurations>
     <Nullable>enable</Nullable>
     <AssemblyName>all_seeking</AssemblyName>
     <LangVersion>latest</LangVersion>
