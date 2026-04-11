@@ -12,7 +12,7 @@ using Il2CppAssets.Scripts.Models.Towers.Projectiles.Behaviors;
 using Il2CppAssets.Scripts.Simulation.Towers;
 using Il2CppAssets.Scripts.Unity.UI_New.InGame;
 
-[assembly: MelonInfo(typeof(AllSeeking.Main), "All Seeking Projectiles", "2.0.0", "Myself")]
+[assembly: MelonInfo(typeof(AllSeeking.Main), "All Seeking Projectiles", "2.0.1", "Myself")]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
 
 namespace AllSeeking;
