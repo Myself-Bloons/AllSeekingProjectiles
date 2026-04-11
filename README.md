@@ -18,5 +18,5 @@
 
 ## Compatibility
 
-- BTD6 version **53.2**
+- BTD6 version **54.0**
 - Requires BTD6 Mod Helper
